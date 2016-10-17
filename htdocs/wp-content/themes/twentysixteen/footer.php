@@ -43,7 +43,7 @@
         </div>
     </div>
     
-    <div class="footer-bottom">© 2016 浙江品安科技有限公司 版权所有 浙ICP备16031790号</div>
+    <div class="footer-bottom">© 2016 杭州知珠网络科技有限公司 版权所有 浙ICP备16031790号</div>
 </div>
 
 <script type="text/javascript">
